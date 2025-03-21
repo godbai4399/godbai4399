@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source enthusi
 - 👯 I’m looking to collaborate on **web development** and **machine learning** projects.
 - 🤔 I’m looking for help with learning **cloud computing** and **DevOps** practices.
 - 💬 Ask me about **JavaScript**, **Python**, and any other development-related topics!
-- 📫 How to reach me: You can reach me via **email** at [your-email@example.com] or find me on **LinkedIn** [here](your-linkedin-profile).
+- 📫 How to reach me: You can reach me via **email** at [202210150117@ctgu.edu.cn].
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid gamer and love exploring new tech trends!
 
@@ -19,8 +19,3 @@ Feel free to explore my repositories and don't hesitate to open an issue or subm
 - **Frameworks & Libraries**: React, Node.js, Express, Django
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Docker, VSCode
-
-## Some of My Projects
-
-- [Project 1 Name](link-to-project-1) - A brief description of what this project does.
-- [Project 2 Name](link-to-project-2) - A brief description of what this project does.
